@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: ai-mcq-generator
+    runtime: python
+
+    buildCommand: |
+      pip install -r requirements.txt
+
+    startCommand: |
+      streamlit run StreamlitAPP.py --server.port=$PORT --server.address=0.0.0.0
