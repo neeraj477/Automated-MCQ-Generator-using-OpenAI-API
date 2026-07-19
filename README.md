@@ -6,7 +6,9 @@ Generate high-quality Multiple Choice Questions (MCQs) from **PDF** and **Text**
 
 ## 🚀 Live Demo
 
-> **Coming Soon** (Streamlit Cloud)
+The application is deployed on Render:
+
+🔗 https://automated-mcq-generator-using-openai-api.onrender.com
 
 ---
 
